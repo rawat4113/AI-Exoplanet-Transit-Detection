@@ -40,7 +40,6 @@ This project implements a complete AI-powered pipeline that:
 
 # 🛰️ Pipeline Workflow
 
-## 🛰️ Pipeline Workflow
 
 ```mermaid
 flowchart TD
