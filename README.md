@@ -40,32 +40,22 @@ This project implements a complete AI-powered pipeline that:
 
 # 🛰️ Pipeline Workflow
 
-```text
-Upload FITS File
-        │
-        ▼
-Read Light Curve
-        │
-        ▼
-Clean & Normalize Data
-        │
-        ▼
-Detect Transit (BLS)
-        │
-        ▼
-Estimate Parameters
-        │
-        ▼
-Extract Features
-        │
-        ▼
-AI Classification
-        │
-        ▼
-Visualization & Results
-```
+## 🛰️ Pipeline Workflow
 
----
+```mermaid
+flowchart TD
+    A[Upload TESS FITS File] --> B[Read Light Curve]
+    B --> C[Clean & Normalize Data]
+    C --> D[Transit Detection using BLS]
+    D --> E[Estimate Transit Parameters]
+    E --> F[Extract Features]
+    F --> G[AI Classification]
+    G --> H[Visualization & Results]
+
+    D --> I[Orbital Period]
+    D --> J[Transit Depth]
+    D --> K[Duration]
+    D --> L[SNR]
 
 # 📸 Application Preview
 
