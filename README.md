@@ -2,6 +2,27 @@
 
 <p align="center">
 
+<a href="https://ai-exoplanet-transit-detection-dnjky7cwx8x6tup7zvre6v.streamlit.app//">
+  <img src="https://img.shields.io/badge/%20Live%20Demo-Open-success?style=for-the-badge" alt="Live Demo">
+</a>
+
+<img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" alt="Python">
+<img src="https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?style=for-the-badge&logo=streamlit" alt="Streamlit">
+<img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn" alt="Scikit-Learn">
+<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" alt="Status">
+
+</p>
+
+## 🚀 Live Demo
+
+🌐 **Experience the application live without installing anything.**
+
+👉 **Live Application:** **https://YOUR-APP.streamlit.app**
+
+The application is successfully deployed on **Streamlit Community Cloud** and allows users to upload astronomical **FITS** files, visualize stellar light curves, and perform AI-powered exoplanet transit detection directly in the browser.
+
+<p align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge\&logo=streamlit)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
