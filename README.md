@@ -592,8 +592,8 @@ Passionate about:
 ## 📫 Connect with Me
 
 * GitHub: https://github.com/rawat4113
-* LinkedIn: *(Add your LinkedIn profile URL here)*
-
+* LinkedIn: https://www.linkedin.com/in/ritesh-rawat-it
+* Email: rawatritesh197@gmail.com
 ---
 
 # ⭐ Support the Project
