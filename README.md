@@ -55,14 +55,7 @@ flowchart TD
     D --> J[Transit Depth]
     D --> K[Duration]
     D --> L[SNR]
-
-(the three backticks immediately after `D --> L[SNR]`)
-
-Without those three backticks, GitHub thinks everything below (like `# 📸 Application Preview`) is still part of the Mermaid diagram, which causes the error.
-
 ---
-
-If it **still gives an error**, send me a screenshot of the **README edit page** showing the Mermaid section. I'll point out the exact line to fix.
 
 # 📸 Application Preview
 
