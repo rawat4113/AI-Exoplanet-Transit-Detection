@@ -69,41 +69,51 @@ Visualization & Results
 
 # 📸 Application Preview
 
-## 1️⃣ Upload FITS File
+## 📤 Upload FITS File
 
-![Upload](images/upload.png)
-
----
-
-## 2️⃣ Cleaned Light Curve
-
-![Cleaned Light Curve](images/cleaned_lightcurve.png)
+<p align="center">
+  <img src="images/upload.png" width="900">
+</p>
 
 ---
 
-## 3️⃣ Transit Detection (BLS)
+## 🧹 Cleaned Light Curve
 
-![BLS](images/bls_periodogram.png)
-
----
-
-## 4️⃣ Estimated Transit Parameters
-
-![Parameters](images/parameters.png)
+<p align="center">
+  <img src="images/cleaned_lightcurve.png" width="900">
+</p>
 
 ---
 
-## 5️⃣ Phase Folded Light Curve
+## 📈 Transit Detection (BLS)
 
-![Folded](images/folded_curve.png)
+<p align="center">
+  <img src="images/bls_periodogram.png" width="900">
+</p>
+
+---
+
+## 📊 Estimated Transit Parameters
+
+<p align="center">
+  <img src="images/parameters.png" width="900">
+</p>
 
 ---
 
-## 6️⃣ AI Classification Result
+## 🌌 Phase Folded Light Curve
 
-![Prediction](images/classification.png)
+<p align="center">
+  <img src="images/folded_curve.png" width="900">
+</p>
 
 ---
+
+## 🤖 AI Classification Result
+
+<p align="center">
+  <img src="images/classification.png" width="900">
+</p>
 
 # 📂 Project Structure
 
