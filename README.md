@@ -55,7 +55,7 @@ flowchart TD
     D --> J[Transit Depth]
     D --> K[Duration]
     D --> L[SNR]
----
+```
 
 # 📸 Application Preview
 
