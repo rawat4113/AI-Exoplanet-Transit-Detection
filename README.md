@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="https://ai-exoplanet-transit-detection-dnjky7cwx8x6tup7zvre6v.streamlit.app/">
+<a href="[https://ai-exoplanet-transit-detection-dnjky7cwx8x6tup7zvre6v.streamlit.app/](https://ai-exoplanet-transit-detection-dnjky7cwx8x6tup7zvre6v.streamlit.app/)">
   <img src="https://img.shields.io/badge/%20Live%20Demo-Open-success?style=for-the-badge" alt="Live Demo">
 </a>
 
