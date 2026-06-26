@@ -16,6 +16,49 @@ st.set_page_config(
     layout="wide"
 )
 
+st.markdown("""
+<style>
+.main {
+    background: linear-gradient(135deg, #070b16 0%, #111827 100%);
+}
+
+.hero-card {
+    padding: 2rem;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #111827, #1e293b);
+    border: 1px solid #334155;
+    margin-bottom: 2rem;
+}
+
+.result-card {
+    padding: 1.5rem;
+    border-radius: 16px;
+    background: #111827;
+    border: 1px solid #334155;
+    margin-top: 1rem;
+}
+
+.metric-card {
+    padding: 1rem;
+    border-radius: 14px;
+    background: #0f172a;
+    border: 1px solid #334155;
+    text-align: center;
+}
+
+.big-title {
+    font-size: 3rem;
+    font-weight: 800;
+    color: white;
+}
+
+.subtitle {
+    font-size: 1.1rem;
+    color: #cbd5e1;
+}
+</style>
+""", unsafe_allow_html=True)
+
 MODEL_PATH = Path("Outputs/advanced_exoplanet_model.pkl")
 
 st.sidebar.title("🌌 AI Exoplanet Detector")
