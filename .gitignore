@@ -216,3 +216,31 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ===============================
+# Ignore datasets
+# ===============================
+Data/
+Outputs/
+Plots/
+
+# Astronomy files
+*.fits
+
+# Catalogs
+*.csv
+
+# Models
+*.pkl
+*.joblib
+*.h5
+*.npy
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
