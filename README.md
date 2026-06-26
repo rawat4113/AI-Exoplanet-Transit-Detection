@@ -17,7 +17,7 @@
 
 🌐 **Experience the application live without installing anything.**
 
-👉 **Live Application:** **https://YOUR-APP.streamlit.app**
+👉 **Live Application:** https://ai-exoplanet-transit-detection-dnjky7cwx8x6tup7zvre6v.streamlit.app/
 
 The application is successfully deployed on **Streamlit Community Cloud** and allows users to upload astronomical **FITS** files, visualize stellar light curves, and perform AI-powered exoplanet transit detection directly in the browser.
 
